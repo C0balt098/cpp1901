@@ -8,5 +8,4 @@
 2. Second lesson **19.07**
 3. Third third **19.12**
 4. Fourth fourth **19.17**
-![me on lessons ](https://www.meme-arsenal.com/memes/0b67a8f54d28440787a847fdabbf60e7.jpg)
-
+![ndwd](https://cdn.contactcenterworld.com/images/company/cpp-turkey-1200px-logo.png)

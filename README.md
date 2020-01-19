@@ -8,4 +8,5 @@
 2. Second lesson **19.07**
 3. Third third **19.12**
 4. Fourth fourth **19.17**
+/size 500x500
 ![ndwd](https://cdn.contactcenterworld.com/images/company/cpp-turkey-1200px-logo.png)

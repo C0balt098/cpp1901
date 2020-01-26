@@ -4,26 +4,32 @@
 - tests
 - homework
 ## Lessons
-1. First lesson **19.02**
-2. Second lesson **19.07**
-3. Third lesson  **19.12**
-4. Fourth lesson  **19.17**
-5. Fivth lesson **19.22**
-6. Sixth lesson **19.27**
+- First lesson **19.02** basic 
+-  Second lesson **19.09** get name
+-  Third lesson  **19.15** bool 
+- Fourth lesson **19.25**
+- Fivth lesson **19.05** Function 
+- Sixth lesson **19.13**
+- Seventh lesson **19.20**
+- Eighth lesson **19.27** Def
+- Nineth lesson **19.04**
+- Tenth leeson **19.11**
+- Eleventh lesson **19.18** 
+- Twelfth leeson **19.25** Array
 ![ndwd](https://cdn.contactcenterworld.com/images/company/cpp-turkey-1200px-logo.png)
 ## test
-1. **27.09**
-2. **29.12**
+-  **27.09**
+-  **29.12**
 ## Git 
-- git add .Adds changes to stage or index in your directory.
-- git status. To check the status of files you have  changed in your directory
-- git config . To set your user name and email in the main configuration file.
-- git commit . Commits your changes and sets it to new commit object for your remote.
-- git branch . Lists out all the branches.
-- git clone . To copy a git repository from remote source.
-- git merge . Merge two branches you were working on.
-
+1. git add .Adds changes to stage or index in your directory.
+2. git status. To check the status of files you have  changed in your directory
+3. git config . To set your user name and email in the main configuration file.
+4. git commit . Commits your changes and sets it to new commit object for your remote.
+5. git branch . Lists out all the branches.
+6. git clone . To copy a git repository from remote source.
+7. git merge . Merge two branches you were working on.
+8. git push .  Push your changes to remote.
 ## Letters
-- https://www.markdownguide.org/basic-syntax/
-- https://dev.to/dhruv/essential-git-commands-every-developer-should-know-2fl
-
+1. https://www.markdownguide.org/basic-syntax/
+2. https://dev.to/dhruv/essential-git-commands-every-developer-should-know-2fl
+3. https://www.w3schools.com/cpp/cpp_conditions.asp

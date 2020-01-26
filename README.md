@@ -49,6 +49,10 @@ do {
   i++;
 }
 while (i < 5);
+## Array
+1.             string cars[4];
+2.             string cars[4] = {"Volvo", "BMW", "Ford", "Mazda"};
+              
 ## Letters
 1. https://www.markdownguide.org/basic-syntax/
 2. https://dev.to/dhruv/essential-git-commands-every-developer-should-know-2fl

@@ -22,4 +22,7 @@
 - git clone . To copy a git repository from remote source.
 - git merge . Merge two branches you were working on.
 
+## Letters
+- https://www.markdownguide.org/basic-syntax/
+- https://dev.to/dhruv/essential-git-commands-every-developer-should-know-2fl
 

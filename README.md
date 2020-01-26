@@ -21,14 +21,15 @@
 -  **27.09**
 -  **29.12**
 ## Git 
-1. git add .Adds changes to stage or index in your directory.
-2. git status. To check the status of files you have  changed in your directory
-3. git config . To set your user name and email in the main configuration file.
-4. git commit . Commits your changes and sets it to new commit object for your remote.
-5. git branch . Lists out all the branches.
-6. git clone . To copy a git repository from remote source.
-7. git merge . Merge two branches you were working on.
-8. git push .  Push your changes to remote.
+1. **git add** .Adds changes to stage or index in your directory.
+2. **git status**. To check the status of files you have  changed in your directory
+3. **git config** . To set your user name and email in the main configuration file.
+4. **git commit** . Commits your changes and sets it to new commit object for your remote.
+5. **git branch** . Lists out all the branches.
+6. **git clone** . To copy a git repository from remote source.
+7. **git merge** . Merge two branches you were working on.
+8. **git push** .  Push your changes to remote.
+9. **git init** . To initialise a git repository for a new or existing project.
 ## Commands terminal 
 1. cd <namedirection>
 2. touch - makes file 

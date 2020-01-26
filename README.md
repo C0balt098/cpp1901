@@ -29,9 +29,9 @@
 6. git clone . To copy a git repository from remote source.
 7. git merge . Merge two branches you were working on.
 8. git push .  Push your changes to remote.
-##Commands terminal 
+## Commands terminal 
 1. cd <namedirection>
-2. touch - makes file
+2. touch - makes file 
 3. mkdir - makes folder 
 4. cat - show contents file 
 5. ls - show contents folder 

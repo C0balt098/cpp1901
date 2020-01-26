@@ -37,8 +37,18 @@
 5. ls - show contents folder 
 6. cp - copy file 
 7. mv - renaming or move file 
-  
-
+## While 
+  do {
+  // code block to be executed
+}
+while (condition);
+# Example 
+  int i = 0;
+do {
+  cout << i << "\n";
+  i++;
+}
+while (i < 5);
 ## Letters
 1. https://www.markdownguide.org/basic-syntax/
 2. https://dev.to/dhruv/essential-git-commands-every-developer-should-know-2fl

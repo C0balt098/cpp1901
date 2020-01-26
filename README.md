@@ -36,7 +36,7 @@
 8. **git push** .  Push your changes to remote.
 9. **git init** . To initialise a git repository for a new or existing project.
 ## Commands terminal 
-1. cd <namedirection>
+1. cd .<namedirection>.
 2. touch - makes file 
 3. mkdir - makes folder 
 4. cat - show contents file 

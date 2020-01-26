@@ -13,3 +13,13 @@
 ## test
 1. **27.09**
 2. **29.12**
+## Git 
+1.git add
+2.git stutus
+3.git config
+3.git commit
+4.git branch
+4.git clone
+5.git merge
+
+

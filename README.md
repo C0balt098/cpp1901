@@ -38,11 +38,11 @@
 6. cp - copy file 
 7. mv - renaming or move file 
 ## While 
-  do {
-  // code block to be executed
+   do {
+  //code block to be executed
 }
 while (condition);
-# Example 
+### Example 
   int i = 0;
 do {
   cout << i << "\n";

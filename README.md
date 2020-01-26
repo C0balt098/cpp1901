@@ -52,7 +52,27 @@ while (i < 5);
 ## Array
 1.             string cars[4];
 2.             string cars[4] = {"Volvo", "BMW", "Ford", "Mazda"};
-              
+##if..else 
+}
+- Less than: a < b
+- Less than or equal to: a <= b
+- Greater than: a > b
+- Greater than or equal to: a >= b
+- Equal to a == b
+- Not Equal to: a != b
+if (condition) {
+  // block of code to be executed if the condition is true
+}
+ ### Example 
+   if (20 > 18) {
+  cout << "20 is greater than 18";
+}
+  ### Syntac 
+   if (condition) {
+  // block of code to be executed if the condition is true
+} else {
+  // block of code to be executed if the condition is false
+}
 ## Letters
 1. https://www.markdownguide.org/basic-syntax/
 2. https://dev.to/dhruv/essential-git-commands-every-developer-should-know-2fl

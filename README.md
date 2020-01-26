@@ -73,6 +73,13 @@ if (condition) {
 } else {
   // block of code to be executed if the condition is false
 }
+## Data types
+1. int myNum = 5;               // Integer (whole number)
+2. float myFloatNum = 5.99;     // Floating point number
+3. double myDoubleNum = 9.98;   // Floating point number
+4. char myLetter = 'D';         // Character
+5. bool myBoolean = true;       // Boolean
+6. string myText = "Hello";     // String
 ## Letters
 1. https://www.markdownguide.org/basic-syntax/
 2. https://dev.to/dhruv/essential-git-commands-every-developer-should-know-2fl

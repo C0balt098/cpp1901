@@ -41,7 +41,7 @@
    do {
   //code block to be executed
 }
-while (condition);
+  while (condition);
 ### Example 
   int i = 0;
 do {

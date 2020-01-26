@@ -3,8 +3,11 @@
 - lessons 
 - tests
 - homework
+# Сompilation
+1. make namefile 
+2. ./namefile 
 # Loading code to github(commands)
-1. git init
+1. git inicompilationt
 2. git add . 
 3. git commit -m "something"
 4. git push origin master

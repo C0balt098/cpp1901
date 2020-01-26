@@ -6,9 +6,10 @@
 ## Lessons
 1. First lesson **19.02**
 2. Second lesson **19.07**
-3. Third third **19.12**
-4. Fourth fourth **19.17**
-
+3. Third lesson  **19.12**
+4. Fourth lesson  **19.17**
+5. Fivth lesson **19.22**
+6. Sixth lesson **19.27**
 ![ndwd](https://cdn.contactcenterworld.com/images/company/cpp-turkey-1200px-logo.png)
 ## test
 1. **27.09**

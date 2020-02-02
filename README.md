@@ -107,8 +107,8 @@ void myFunction() {
   // code to be executed
 }
 ```
-**myFunction()** is the name of the function
-**void means** that the function does not have a return value.
+* **myFunction()** is the name of the function.
+* **void means** that the function does not have a return value.
 ### Example 
 ```
 // Create a function

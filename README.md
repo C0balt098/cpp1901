@@ -89,6 +89,7 @@ if (condition) {
 4. **char** myLetter = 'D';         // Character
 5. **bool** myBoolean = true;       // Boolean
 6. **string** myText = "Hello";     // String
+## Function
 
 ## Letters
 1. https://www.markdownguide.org/basic-syntax/

@@ -7,23 +7,31 @@
 1. make namefile 
 2. ./namefile 
 # Loading code to github(commands)
-1. git inicompilationt
-2. git add . 
-3. git commit -m "something"
-4. git push origin master
+1.``
+git init
+``
+2. ``
+git add .
+`` 
+3. ``
+git commit -m "something"
+``
+4. ``
+git push origin master
+``
 ## Lessons
-- First lesson **19.02** basic 
--  Second lesson **19.09** get name
--  Third lesson  **19.15** bool 
-- Fourth lesson **19.25**
-- Fivth lesson **19.05** Function 
-- Sixth lesson **19.13**
-- Seventh lesson **19.20**
-- Eighth lesson **19.27** Def
-- Nineth lesson **19.04**
-- Tenth leeson **19.11**
-- Eleventh lesson **19.18** 
-- Twelfth leeson **19.25** Array
+1. lesson **19.02** basic 
+2.  lesson **19.09** get name
+3.  lesson  **19.15** bool 
+4.  lesson **19.25**
+5.  lesson **19.05** Function 
+6.  lesson **19.13**
+7.  lesson **19.20**
+8.  lesson **19.27** Def
+9.  lesson **19.04**
+10.  leeson **19.11**
+11.  lesson **19.18** 
+12.  leeson **19.25** Array
 ![ndwd](https://cdn.contactcenterworld.com/images/company/cpp-turkey-1200px-logo.png)
 ## test
 -  **27.09**
@@ -47,17 +55,21 @@
 6. cp - copy file 
 7. mv - renaming or move file 
 ## While 
-   do {
+  ``` 
+  do {
   //code block to be executed
 }
   while (condition);
+  ```
 ### Example 
+```
   int i = 0;
 do {
   cout << i << "\n";
   i++;
 }
 while (i < 5);
+```
 ## Array
 1.             string cars[4];
 2.             string cars[4] = {"Volvo", "BMW", "Ford", "Mazda"};
@@ -69,19 +81,20 @@ while (i < 5);
 - Greater than or equal to: a >= b
 - Equal to a == b
 - Not Equal to: a != b
-if (condition) {
-  // block of code to be executed if the condition is true
-}
  ### Example 
+   ```
    if (20 > 18) {
   cout << "20 is greater than 18";
 }
+```
   ### Syntac 
+   ```
    if (condition) {
   // block of code to be executed if the condition is true
 } else {
   // block of code to be executed if the condition is false
 }
+```
 ## Data types
 1. **int** myNum = 5;               // Integer (whole number)
 2. **float** myFloatNum = 5.99;     // Floating point number

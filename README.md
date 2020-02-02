@@ -31,7 +31,7 @@ git push origin master
 9.  lesson **19.04**
 10.  leeson **19.11**
 11.  lesson **19.18** 
-12.  leeson **19.25** Array
+12.  lesson **19.25** Array
 ![ndwd](https://cdn.contactcenterworld.com/images/company/cpp-turkey-1200px-logo.png)
 ## test
 -  **27.09**
@@ -47,13 +47,13 @@ git push origin master
 8. **git push** .  Push your changes to remote.
 9. **git init** . To initialise a git repository for a new or existing project.
 ## Commands terminal 
-1. cd namedirection
-2. touch - makes file 
-3. mkdir - makes folder 
-4. cat - show contents file 
-5. ls - show contents folder 
-6. cp - copy file 
-7. mv - renaming or move file 
+1. **cd namedirection**
+2. **touch** - makes file 
+3. **mkdir** - makes folder 
+4. **cat** - show contents file 
+5. **ls** - show contents folder 
+6. **cp** - copy file 
+7. **mv** - renaming or move file 
 ## While 
   ``` 
   do {
@@ -74,7 +74,6 @@ while (i < 5);
 1.             string cars[4];
 2.             string cars[4] = {"Volvo", "BMW", "Ford", "Mazda"};
 ## If..else 
-}
 - Less than: a < b
 - Less than or equal to: a <= b
 - Greater than: a > b
@@ -103,7 +102,26 @@ while (i < 5);
 5. **bool** myBoolean = true;       // Boolean
 6. **string** myText = "Hello";     // String
 ## Function
+```
+void myFunction() {
+  // code to be executed
+}
+```
+**myFunction()** is the name of the function
+**void means** that the function does not have a return value.
+### Example 
+```
+// Create a function
+void myFunction() {
+  cout << "I just got executed!";
+}
 
+int main() {
+  myFunction(); // call the function
+  return 0;
+}
+```
+// Outputs "I just got executed!"
 ## Letters
 1. https://www.markdownguide.org/basic-syntax/
 2. https://dev.to/dhruv/essential-git-commands-every-developer-should-know-2fl

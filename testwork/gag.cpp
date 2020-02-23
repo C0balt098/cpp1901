@@ -9,8 +9,8 @@ int main(){
 	cin >> b;
 	cout <<"enter third number :";
 	cin >> c;
-	cout <<"Res:"
-	cout << "Res" << (a + b + c)/3;
+	//cout <<"Res:"
+	cout << "Res: " << (a + b + c)/3<<endl;
 	return 0;
 
 }

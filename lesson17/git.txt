@@ -1,0 +1,7 @@
+git add
+git stutus
+git config
+git commit
+git branch
+git clone
+git merge

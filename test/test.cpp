@@ -27,7 +27,7 @@ int myfunction()
 	std::cout<<"Введи слово, твар: ";
 	std::cin>>str;
 	int count = str.length();
-	std::cout<<"Та дам ...вот количество елементов : "<<count << "\n"; // std::endl;
+	std::cout<<"Та дам ...вот количество символов : "<<count << "\n"; // std::endl;
 	return count;
 
 }
